@@ -1,0 +1,5 @@
+{
+  "name": "AI IELTS Word Spelling Fun",
+  "description": "An AI-powered interactive IELTS vocabulary spelling game using Gemini to dynamically generate words with phonetics, translations, and illustrations.",
+  "requestFramePermissions": []
+}
